@@ -1,0 +1,12 @@
+C:\Users\Dilek\Desktop\GITHUB\Asp.NetCorePostegreSQL\PostegreSQL\PostegreSQL.Data\bin\Debug\netcoreapp3.1\PostegreSQL.Data.deps.json
+C:\Users\Dilek\Desktop\GITHUB\Asp.NetCorePostegreSQL\PostegreSQL\PostegreSQL.Data\bin\Debug\netcoreapp3.1\PostegreSQL.Data.dll
+C:\Users\Dilek\Desktop\GITHUB\Asp.NetCorePostegreSQL\PostegreSQL\PostegreSQL.Data\obj\Debug\netcoreapp3.1\PostegreSQL.Data.csprojAssemblyReference.cache
+C:\Users\Dilek\Desktop\GITHUB\Asp.NetCorePostegreSQL\PostegreSQL\PostegreSQL.Data\obj\Debug\netcoreapp3.1\PostegreSQL.Data.AssemblyInfoInputs.cache
+C:\Users\Dilek\Desktop\GITHUB\Asp.NetCorePostegreSQL\PostegreSQL\PostegreSQL.Data\obj\Debug\netcoreapp3.1\PostegreSQL.Data.AssemblyInfo.cs
+C:\Users\Dilek\Desktop\GITHUB\Asp.NetCorePostegreSQL\PostegreSQL\PostegreSQL.Data\bin\Debug\netcoreapp3.1\PostegreSQL.Data.runtimeconfig.json
+C:\Users\Dilek\Desktop\GITHUB\Asp.NetCorePostegreSQL\PostegreSQL\PostegreSQL.Data\bin\Debug\netcoreapp3.1\PostegreSQL.Data.runtimeconfig.dev.json
+C:\Users\Dilek\Desktop\GITHUB\Asp.NetCorePostegreSQL\PostegreSQL\PostegreSQL.Data\obj\Debug\netcoreapp3.1\PostegreSQL.Data.genruntimeconfig.cache
+C:\Users\Dilek\Desktop\GITHUB\Asp.NetCorePostegreSQL\PostegreSQL\PostegreSQL.Data\bin\Debug\netcoreapp3.1\PostegreSQL.Data.pdb
+C:\Users\Dilek\Desktop\GITHUB\Asp.NetCorePostegreSQL\PostegreSQL\PostegreSQL.Data\obj\Debug\netcoreapp3.1\PostegreSQL.Data.csproj.CoreCompileInputs.cache
+C:\Users\Dilek\Desktop\GITHUB\Asp.NetCorePostegreSQL\PostegreSQL\PostegreSQL.Data\obj\Debug\netcoreapp3.1\PostegreSQL.Data.dll
+C:\Users\Dilek\Desktop\GITHUB\Asp.NetCorePostegreSQL\PostegreSQL\PostegreSQL.Data\obj\Debug\netcoreapp3.1\PostegreSQL.Data.pdb
